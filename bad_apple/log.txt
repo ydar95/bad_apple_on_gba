@@ -1,0 +1,5 @@
+ARM Linker: (Warning) -bin output file format will not be supported by future releases of armlink.
+ARM Linker: (Error) Global buf multiply defined (in bad_apple_buf.o and main.o).
+ARM Linker: (Warning) File C:\ARM251\LIB\armlib_cn.32l not found.
+ARM Linker: (Error) Undefined symbol '__rt_udiv', referred to from main.o.
+ARM Linker: Errors in link, no output generated.
