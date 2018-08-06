@@ -32,6 +32,6 @@
 
 5. 展示
 
-   ![display](E:\GitStorage\bad_apple_on_gba\readme_resource\display.png)
+   ![display](https://raw.githubusercontent.com/ydar95/bad_apple_on_gba/master/readme_resource/display.png)
 
    ​
